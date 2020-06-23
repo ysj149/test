@@ -1,0 +1,21 @@
+From 9ebb011df5d63cf8577b247e4663bc6e7b6a9228 Mon Sep 17 00:00:00 2001
+From: ysj149 <690173041@qq.com>
+Date: Mon, 22 Jun 2020 19:24:49 +0800
+Subject: [PATCH] v2
+
+---
+ 1 | 2 --
+ 1 file changed, 2 deletions(-)
+ delete mode 100644 1
+
+diff --git a/1 b/1
+deleted file mode 100644
+index 64e09ee..0000000
+--- a/1
++++ /dev/null
+@@ -1,2 +0,0 @@
+-aaaa
+-bbbb
+-- 
+2.17.1
+
